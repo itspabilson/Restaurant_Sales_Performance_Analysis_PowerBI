@@ -1,4 +1,5 @@
 # Restaurant Sales & Operations Analysis (SQL & Power BI)
+# Public Restaurant Sales Dataset sourced from Kaggle (containing transactional records across multiple products and channels).
 
 ## Project Overview
 This end-to-end data analysis project focuses on analyzing restaurant sales performance, customer purchase behaviors, and channel distribution. The workflow spans from managing and querying operational data in **SQL Server** to building an interactive analytics dashboard in **Power BI**. 
